@@ -7,6 +7,7 @@
 <p align="center">
   Chemistry undergraduate at Lanzhou University · Cuiying Honors Program
   <br>
+  <a href="https://ethantang2005.github.io/">Website</a> ·
   <a href="mailto:yctang2005@gmail.com">Email</a> ·
   <a href="https://github.com/EthanTang2005/NiAsymCoupling">NiAsymCoupling</a>
 </p>
